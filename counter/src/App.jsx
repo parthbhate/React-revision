@@ -5,16 +5,16 @@ import './App.css'
 
 function App() {
 
-const [counter, setCounter] = useState(0)
+let [counter, setCounter] = useState(0)
 
  // let counter = 5 
 
   const addValue = () =>{
     
-    counter = counter + 1;
-  // setCounter(counter + 1)
-  setCounter(counter)
-  console.log("clicked",counter);
+    //counter = counter + 1;
+  setCounter(counter + 1)
+ // setCounter(counter)
+ 
 
   }
 
