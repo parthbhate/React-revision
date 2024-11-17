@@ -1,2 +1,2 @@
-revision React   by making  Projects  
+revision React by making  Projects  
 "# React-revision" 
